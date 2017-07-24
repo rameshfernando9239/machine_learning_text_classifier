@@ -1,0 +1,131 @@
+750
+100821
+Rocchio's turn
+elapsed time for training rocchio
+0:01:46.805000
+0.0
+0.249524085368
+0.268576460231
+0.247042127889
+0.245247129501
+0.261207137639
+0.315820441264
+0.209930123752
+0.218039941834
+0.222729413072
+0.241212365897
+0.218345452845
+0.216578768427
+0.196072532364
+0.2224144613
+0.277397606171
+0.193357850986
+0.225034724654
+0.193601610295
+0.139888321108
+elapsed time for testing rocchio
+0:00:00.047000
+True
+elapsed time for testing a pool of documents
+0:02:52.939000
+alt.atheism
+precision =  0.464
+recall =  0.483333333333
+accuracy =  0.9484
+
+comp.graphics
+precision =  0.496
+recall =  0.74251497006
+accuracy =  0.9662
+
+comp.os.ms-windows.misc
+precision =  0.74
+recall =  0.876777251185
+accuracy =  0.9818
+
+comp.sys.ibm.pc.hardware
+precision =  0.568
+recall =  0.855421686747
+accuracy =  0.9736
+
+comp.sys.mac.hardware
+precision =  0.704
+recall =  0.698412698413
+accuracy =  0.97
+
+comp.windows.x
+precision =  0.624
+recall =  0.861878453039
+accuracy =  0.9762
+
+misc.forsale
+precision =  0.784
+recall =  0.451612903226
+accuracy =  0.9416
+
+rec.autos
+precision =  0.448
+recall =  0.896
+accuracy =  0.9698
+
+rec.motorcycles
+precision =  0.46
+recall =  0.688622754491
+accuracy =  0.9626
+
+rec.sport.baseball
+precision =  0.496
+recall =  0.673913043478
+accuracy =  0.9628
+
+rec.sport.hockey
+precision =  0.46
+recall =  0.78231292517
+accuracy =  0.9666
+
+sci.crypt
+precision =  0.736
+recall =  0.645614035088
+accuracy =  0.9666
+
+sci.electronics
+precision =  0.32
+recall =  0.701754385965
+accuracy =  0.9592
+
+sci.med
+precision =  0.444
+recall =  0.744966442953
+accuracy =  0.9646
+
+sci.space
+precision =  0.632
+recall =  0.854054054054
+accuracy =  0.9762
+
+soc.religion.christian
+precision =  1.0
+recall =  0.572082379863
+accuracy =  0.9626
+
+talk.politics.guns
+precision =  0.84
+recall =  0.280748663102
+accuracy =  0.8844
+
+talk.politics.mideast
+precision =  0.88
+recall =  0.503432494279
+accuracy =  0.9506
+
+talk.politics.misc
+precision =  0.476
+recall =  0.712574850299
+accuracy =  0.9642
+
+talk.religion.misc
+precision =  0.528
+recall =  0.647058823529
+accuracy =  0.962
+
+macro-averaged F measure 0.610146831404
